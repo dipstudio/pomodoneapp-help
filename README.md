@@ -47,7 +47,7 @@ Let's choose the task and start working on it. You can either click pre-defined 
 
 Click Play button to start the timer. 
 
->While the timer is ticking, focus on your task until the timer is finished, or until the task is done. All other buttons and links are hidden now, while the timer is ticking, so just focus.<br>You can switch between the tasks within the timer by clicking the Switch button:<br>![How to Swith](https://pomodoneapp.com/assets/images/blog/PD-switch-on-timer.png). 
+>While the timer is ticking, focus on your task until the timer is finished, or until the task is done. All other buttons and links are hidden now, while the timer is ticking, so just focus.<br>You can switch between the tasks within the timer by clicking the Switch button:<br>![How to Switch](https://pomodoneapp.com/assets/images/blog/PD-switch-on-timer.png). 
 
 
 You can get back to your task list clicking to the left arrow next to the task's title. 
