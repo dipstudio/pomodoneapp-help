@@ -1,4 +1,4 @@
-# Finally you decided to start using PomoDone App. Cheers!
+# Finally you decided to start using PomoDone App.
 ## Step 1. Mandatory. 
 
 Create an account. You can do it from the app, this very [website](https://pomodoneapp.com), [web app](https://app.pomodoneapp.com) or [profile](https://my.pomodoneapp.com) page, it doesn't matter. Just create an account! 
@@ -61,12 +61,6 @@ To create your own task, just use **+** icon at the top, or CMD+N / CTRL+N hotke
 >If you purchased App Store/Win Store version (or use any [Premium Plan](https://pomodoneapp.com/pricing-2017.html)), you can create your Local projects right in the app. Click the pen icon next to the Project Name.<br><br>![Manage Local Projects](https://pomodoneapp.com/assets/images/blog/PD-manage-local-projects.png) 
 
 ### More about PomoDone: 
-
-- [Your Questions, Answered. Part I](/[[~76]]) 
-- [PomoDone App Chrome Extension: to help your better self](/[[~75]]) 
-- [Zapier Integration: details](/[[~54]]) 
-- [Build #1084 Release Notes](/[[~72]]) 
-- [Android Beta Testing](/[[~58]]) 
 
 What would you like to know and what would be the best way to share this information to you? What is the best tips & tricks, what workaround do you use? We'd really appreciate your insight on these ones to make our integrations better, more productive and much more efficient. Comments, tweets are always welcome. 
 
