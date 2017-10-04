@@ -21,7 +21,7 @@ If you're fan of paper based task-lists or not sure what is your most beloved ta
 
 If you're about to use your existing task management system, log in to [your profile page](https://my.pomodoneapp.com/). Let's connect it, clicking the icon of your task/note/event/project management system: Trello, Wunderlist, Todoist, Evernote, Google Calendar, Microsoft To-Do, Toodledo. 
 
-![Connect the service](/assets/images/blog/PD-connect-the-services.png) 
+![Connect the service](https://pomodoneapp.com/assets/images/blog/PD-connect-the-services.png) 
 
 > We consider these systems as personal use systems, so it's available on any plan. Corporate/team type of systems (Asana, JIRA, Basecamps, MS Outlook Tasks) integrations are available for [Premium Plan](https://pomodoneapp.com/pricing-2017.html) users. You can either upgrade your account [here](https://pomodoneapp.com/pricing-2017.html) or [contact us](https://pomodoneapp.com/feedback.html) to get a free trial of the Ultimate plan. 
 
@@ -38,7 +38,7 @@ Open the app (or web app), and make a full sync.
 
 Ok, so we have all our tasks here in PomoDone now. If you prefer narrow app window, click to the Project Title (or blue arrow next to it) to switch between the projects. Or resize the app wide enough to see all your projects in the left hand side sidebar. 
 
-![Project Switch](/assets/images/blog/pd-projects-switch.png) 
+![Project Switch](https://pomodoneapp.com/assets/images/blog/pd-projects-switch.png) 
 
 
 Let's choose the task and start working on it. You can either click pre-defined timers at the end of each row to start the timer immediately, or click the task title to get the timer screen. 
