@@ -1,5 +1,5 @@
-#Finally you decided to start using PomoDone App. Cheers!
-##Step 1. Mandatory. 
+# Finally you decided to start using PomoDone App. Cheers!
+## Step 1. Mandatory. 
 
 Create an account. You can do it from the app, this very [website](https://pomodoneapp.com), [web app](https://app.pomodoneapp.com) or [profile](https://my.pomodoneapp.com) page, it doesn't matter. Just create an account! 
 
@@ -9,7 +9,7 @@ Create an account. You can do it from the app, this very [website](https://pomod
 You'll receive an email with confirmation link (don't forget to check your junk mail folder). Click to the link to confirm the account. The page you'll get will ask you to create your password and define your Time Zone. It will take less than a minute. 
 
 
-##Step 2. Kinda mandatory 
+## Step 2. Kinda mandatory 
 
 [Download](https://pomodoneapp.com/download-pomodone-app.html), install, launch your desktop app and log in there using your credentials, created on #1 of this list (or log in to the [web app](https://app.pomodoneapp.com) instead). 
 
@@ -17,7 +17,7 @@ You're all set.
 
 If you're fan of paper based task-lists or not sure what is your most beloved task management system yet, jump to the Step #5 of this instruction. 
 
-##Step 3. Optional, but recommended 
+## Step 3. Optional, but recommended 
 
 If you're about to use your existing task management system, log in to [your profile page](https://my.pomodoneapp.com/). Let's connect it, clicking the icon of your task/note/event/project management system: Trello, Wunderlist, Todoist, Evernote, Google Calendar, Microsoft To-Do, Toodledo. 
 
@@ -31,7 +31,7 @@ Select which projects, boards, calendars and notebooks you'd like to track time 
 
 ![services config](https://pomodoneapp.com/assets/images/mail/connect-1.gif) 
 
-##Step 4. Let's dance? 
+## Step 4. Let's dance? 
 
 Open the app (or web app), and make a full sync. 
 >CMD+S on macOS, CTRL+S on Windows or burger menu &rarr; sync all).<br>We advise to make full sync any time you change your connected sources structure (adding/removing the integration, changing the projects sync list etc). 
@@ -47,7 +47,7 @@ Let's choose the task and start working on it. You can either click pre-defined 
 
 Click Play button to start the timer. 
 
->While the timer is ticking, focus on your task until the timer is finished, or until the task is done. All other buttons and links are hidden now, while the timer is ticking, so just focus.<br>You can switch between the tasks within the timer by clicking the Switch button:<br>![How to Swith](/assets/images/blog/PD-switch-on-timer.png). 
+>While the timer is ticking, focus on your task until the timer is finished, or until the task is done. All other buttons and links are hidden now, while the timer is ticking, so just focus.<br>You can switch between the tasks within the timer by clicking the Switch button:<br>![How to Swith](https://pomodoneapp.com/assets/images/blog/PD-switch-on-timer.png). 
 
 
 You can get back to your task list clicking to the left arrow next to the task's title. 
@@ -58,7 +58,7 @@ We created pre-filled Local Project dummy tasks to let you play with the PomoDon
 
 To create your own task, just use **+** icon at the top, or CMD+N / CTRL+N hotkeys. Tasks Title and Project/List are mandatory (to let us keep your time tracking organized). Everything else is optional. 
 
->If you purchased App Store/Win Store version (or use any [Premium Plan](https://pomodoneapp.com/pricing-2017.html)), you can create your Local projects right in the app. Click the pen icon next to the Project Name.<br><br>![Manage Local Projects](/assets/images/blog/PD-manage-local-projects.png) 
+>If you purchased App Store/Win Store version (or use any [Premium Plan](https://pomodoneapp.com/pricing-2017.html)), you can create your Local projects right in the app. Click the pen icon next to the Project Name.<br><br>![Manage Local Projects](https://pomodoneapp.com/assets/images/blog/PD-manage-local-projects.png) 
 
 ### More about PomoDone: 
 
